@@ -1,0 +1,8 @@
+{
+  "name": "Remix FB Page Batch Resizer \u0026 AI Optimizer Pro",
+  "description": "All-in-one Facebook Page batch image resizer, smart AI subject-aware crop, viral scoring, safety moderation, blur-fill framing, watermark studio, and automated caption generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
